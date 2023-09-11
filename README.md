@@ -1,1 +1,1 @@
-# study-DBMS
+# study_DBMS
